@@ -37,7 +37,7 @@ body, html {
 }
 
 .page-heading .heading-content h1 {
-  font-size: 32px;
+  font-size: 21px;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 1px;
@@ -275,7 +275,7 @@ nav {
 }
 
 #video-container .video-content .inner h1 {
-  font-size: 64px;
+  font-size: 32px;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 2px;
